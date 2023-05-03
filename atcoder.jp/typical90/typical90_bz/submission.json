@@ -1,0 +1,12 @@
+{
+	"id": 41146661,
+	"epoch_second": 1683123649,
+	"problem_id": "typical90_bz",
+	"contest_id": "typical90",
+	"user_id": "shirororo",
+	"language": "PyPy3 (7.3.0)",
+	"point": 2,
+	"length": 336,
+	"result": "AC",
+	"execution_time": 266
+}
